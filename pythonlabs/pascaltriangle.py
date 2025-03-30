@@ -12,6 +12,6 @@ def print_triangle(triangle):
         print(" ".join(map(str, row)).center(len(triangle[-1]) * 3))
 
 # Example usage
-n = 5  # Change this value for a larger triangle
+n = 10  # Change this value for a larger triangle
 triangle = pascal_triangle(n)
 print_triangle(triangle)
