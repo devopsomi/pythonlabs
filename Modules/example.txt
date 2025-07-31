@@ -1,5 +1,2 @@
-Hello World!
-This is a new line.This is an appended line
-This is an appended lineFirst Line
-Second Line
-Third Line
+Hello World
+This is a new line
